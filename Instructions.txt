@@ -1,0 +1,7 @@
+The "app.py" is a file which can be exposed as a library that supports the basic CRD(create, read, write) operations. 
+The file "data.txt" is a data store meant to local storage for one single process on single laptop.
+The file "data.txt" stores the JSON objects that we got from the operations performed.
+Import the main file "app.py" as library in your file.
+Perform the required operations such as Create, Read, Delete and additional operations such as Modify, Display.
+Run the "demo.py" file to check the functionality.
+Thank You !!
